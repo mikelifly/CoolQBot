@@ -2,7 +2,7 @@ version: "3.7"
 services:
 
   coolqbot:
-    image: he0119/coolqbot:latest
+    image: mikelifly/coolqbot:latest
     container_name: coolqbot
     restart: always
     volumes:
